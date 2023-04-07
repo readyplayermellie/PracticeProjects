@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@300&family=Give+You+Glory&family=Padauk&display=swap');
+
+h1 {
+    font-family: 'Bitter', serif;
+}
+h2{
+    font-family: 'Give You Glory', cursive;
+}
+p, a, label, button, li {
+    font-family: 'Padauk', sans-serif;
+}
+a {
+    text-decoration: none;
+}
